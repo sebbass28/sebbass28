@@ -2,6 +2,7 @@
 
 **Cloud student · Aspiring DevOps & Cloud Security engineer**
 
+
 📍 Valencia, España · 🎓 Cursando el **Curso de Especialización en Recursos y Servicios en la Nube**
 
 Me interesa automatizar despliegues, construir infraestructura en la nube y hacerlo de forma segura.
@@ -9,9 +10,9 @@ Mi objetivo es trabajar como **DevOps** con foco en **ciberseguridad** (DevSecOp
 
 ## 🛠️ Stack
 
-**Sistemas y nube:** Linux · AWS (EC2, S3, VPC, RDS) · Docker
-**Automatización y CI/CD:** Ansible · GitHub Actions · Bash
-**Desarrollo:** Node.js (Express) · Django · PostgreSQL / MySQL
+- **Sistemas y nube:** Linux · AWS (EC2, S3, VPC, RDS) · Docker
+- **Automatización y CI/CD:** Ansible · GitHub Actions · Bash
+- **Desarrollo:** Node.js (Express) · Django · PostgreSQL / MySQL
 
 ## 🚀 Proyectos destacados
 

@@ -12,7 +12,7 @@ Mi objetivo es trabajar como **DevOps** con foco en **ciberseguridad** (DevSecOp
 
 - **Sistemas y nube:** Linux · AWS (EC2, S3, VPC, RDS) · Docker
 - **Automatización y CI/CD:** Ansible · GitHub Actions · Bash
-- **Desarrollo:** Node.js (Express) · Django · PostgreSQL / MySQL
+- **Desarrollo:** Node.js (Express) · Django · PostgreSQL / MySQL · PHP · Java
 
 ## 🚀 Proyectos destacados
 

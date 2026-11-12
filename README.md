@@ -33,4 +33,4 @@ Mi objetivo es trabajar como **DevOps** con foco en **ciberseguridad** (DevSecOp
 
 ## 📫 Contacto
 
-Abierto a prácticas y primeras oportunidades en DevOps / Cloud / Seguridad. Escríbeme por GitHub o LinkedIn.
+Abierto a prácticas y primeras oportunidades en DevOps / Cloud / Seguridad. Escríbeme por GitHub o [LinkedIn](https://www.linkedin.com/in/juan-sebasti%C3%A1n-agudelo-castrill%C3%B3n-235091374/).

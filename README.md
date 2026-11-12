@@ -1,20 +1,20 @@
-# Hola, soy Juan Sebastián 👋
+# Hola, soy Juan Sebastián
 
 **Cloud student · Aspiring DevOps & Cloud Security engineer**
 
 
-📍 Valencia, España · 🎓 Cursando el **Curso de Especialización en Recursos y Servicios en la Nube**
+ Valencia, España ·  Cursando el **Curso de Especialización en Recursos y Servicios en la Nube**
 
 Me interesa automatizar despliegues, construir infraestructura en la nube y hacerlo de forma segura.
 Mi objetivo es trabajar como **DevOps** con foco en **ciberseguridad** (DevSecOps).
 
-## 🛠️ Stack
+##  Stack
 
 - **Sistemas y nube:** Linux · AWS (EC2, S3, VPC, RDS) · Docker
 - **Automatización y CI/CD:** Ansible · GitHub Actions · Bash
 - **Desarrollo:** Node.js (Express) · Django · PostgreSQL / MySQL · PHP · Java
 
-## 🚀 Proyectos destacados
+##  Proyectos destacados
 
 | Proyecto | Qué es |
 |---|---|
@@ -31,6 +31,6 @@ Mi objetivo es trabajar como **DevOps** con foco en **ciberseguridad** (DevSecOp
 - **Kubernetes** — despliegue y operación de contenedores
 - **DevSecOps** — escaneo de secretos (gitleaks), dependencias e imágenes en los pipelines
 
-## 📫 Contacto
+##  Contacto
 
 Abierto a prácticas y primeras oportunidades en DevOps / Cloud / Seguridad. Escríbeme por GitHub o [LinkedIn](https://www.linkedin.com/in/juan-sebasti%C3%A1n-agudelo-castrill%C3%B3n-235091374/).
